@@ -1,0 +1,328 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #2F343A;
+}
+/*header*/
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+header{
+    margin-bottom: 30px;
+}
+.headfoot{
+    width: 100%;
+    height: 45px;
+    background-color: #C8A35F;
+    padding-top: 25px;
+}
+.headfoot1{
+    background-color: #393F47;
+    width: 100%;
+    height: 1000px;
+    margin-top: -115px;
+}
+.tel1{
+    color: white !important;
+    outline: none;
+    text-decoration: none;
+    margin-left: 880px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.headf h6{
+    font-size: 12px;
+    margin-top: -40px;
+    float: left;
+    display: flex;
+    color: white;
+    margin-right: -30px;
+    text-align: center;
+    width: 82px;
+}
+.headf2 h6{
+    font-size: 12px;
+    margin-top: -40px;
+    float: right;
+    display: flex;
+    color: white;
+    text-align: center;
+    margin-right: 30px;
+}
+.logo {
+    margin-left: -160px;
+    margin-right: 10px;
+    margin-top: 25px;
+    width: 160px;
+    height: 46px;
+}
+.metka {
+    margin-top: 30px;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    border-left: 1px solid #d0d0d0;
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+.logotip {
+    display: flex;
+}
+.logotip h6 {
+    margin-top: 40px;
+    margin-left: 10px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    outline: none;
+}
+.menu {
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin-top: -53px;
+}
+.menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: white !important;
+    outline: none;
+    margin-right: 30px;
+}
+.headtr {
+    width: 100%;
+    margin-top: -100px;
+}
+.photo {
+    background: url("img/Rectangle 2.png") no-repeat center top / cover;
+    width: 100%;
+    height: 620px;
+}
+.header_text{
+    margin-top: -430px;
+}
+.header_text h1{
+    margin-left: 180px;
+    margin-top: -400px;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-weight: bold;
+    border: 1px solid #C8A35F;
+    height: 200px;
+    width: 920px;
+    padding-top: 45px;
+}
+.header_text h5{
+    margin-top: -150px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.mouse {
+    margin-top: 140px;
+    margin-left: 615px;
+}
+/*header*/
+/*section*/
+#transportation{
+    margin-top: -140px;
+}
+.retangle1 {
+    margin-top: 370px;
+    width: 90px;
+    height: 6px;
+    border-radius: 50px;
+    background: #C8A35F;
+}
+.text h1{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.text h5{
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+}
+.button {
+    background: #C8A35F;
+    position: absolute;
+    display: block;
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: white !important;
+    padding: 19px 48px;
+    text-decoration: none;
+    font-weight: bold;
+    outline: none;
+}
+.car {
+    margin-left: 580px;
+    margin-top: -220px;
+}
+.arrow1 {
+    display: block;
+    float: right;
+    width: 300px;
+    text-decoration: none;
+    outline: none;
+    text-transform: uppercase;
+}
+.arrow1 a{
+    text-decoration: none;
+}
+.arrow2 a{
+    text-decoration: none;
+}
+.arrow1 h5{
+    text-align: right;
+    font-size: 16px;
+    color: #C8A35F;
+    margin-top: -300px;
+    margin-right: 100px;
+}
+.arrowright {
+    float: right;
+    margin-top: -50px;
+}
+.arrow2{
+    margin-top: -15px;
+    text-transform: uppercase;
+}
+.arrow2 h5{
+    text-align: right;
+    font-size: 16px;
+    color: #C8A35F;
+
+}
+.arrowleft {
+    float: right;
+    margin-right: 90px;
+    margin-top: -47px;
+}
+/*section*/
+/*section2*/
+.retangle2 {
+    margin-top: 200px;
+    width: 90px;
+    height: 6px;
+    border-radius: 50px;
+    background: #C8A35F;
+}
+.title {
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.block {
+    width: 322px;
+    height: 180px;
+    background: #393F47;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    float: left;
+}
+.block:hover{
+    background-color: #C8A35F;
+}
+.plane{
+    margin-left: 145px;
+    margin-top: 55px;
+}
+.block h5{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.services{
+    width: 1300px;
+    float: left;
+}
+/*section2*/
+/*section3*/
+#company {
+    margin-top: 540px;
+}
+.block2{
+    width: 410px;
+    height: 482px;
+    background: #393F47;
+    margin-left: 450px;
+}
+.retangle3 {
+    margin-top: -400px;
+    width: 90px;
+    height: 6px;
+    border-radius: 50px;
+    background: #C8A35F;
+}
+.text2 h1{
+    font-size: 40px;
+    color: white;
+}
+.text2 p {
+    font-size: 16px;
+    color: white;
+    font-weight: 100;
+}
+.photos{
+    display: flex;
+    float: right;
+    margin-top: -270px;
+    margin-right: 100px;
+}
+.photos1 {
+    margin-right: 300px;
+    margin-top: -110px;
+    display: flex;
+    float: right;
+}
+/*section3*/
+#map{
+    margin-top: 240px;
+}
+/*footer*/
+footer{
+    margin-top: -5px;
+    background: #C8A35F;
+    width: 100%;
+    height: 180px;
+}
+.logo1{
+    padding-top: 33px;
+}
+.footer_text1{
+    width: 550px;
+    margin-left: 300px;
+}
+.footer_text1 h6{
+    color: white;
+    font-size: 14px;
+    font-weight: unset;
+    margin-top: -35px;
+    margin-bottom: 10px;
+    margin-left: -100px;
+}
+.footer_text1 h5{
+    margin-left: -100px;
+}
+.tel2 {
+    text-decoration: none;
+    outline: none;
+    color: white;
+    display: table;
+    margin-left: 670px;
+    margin-top: -48px;
+}
+.last h6{
+    text-align: right;
+    font-size: 14px;
+    margin-top: -1px;
+}
+/*footer*/
